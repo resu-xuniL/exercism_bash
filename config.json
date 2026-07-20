@@ -781,6 +781,14 @@
         ]
       },
       {
+        "slug": "word-search",
+        "name": "Word Search",
+        "uuid": "89a9791d-3a6d-491f-a10d-1181e9412a5a",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
         "slug": "atbash-cipher",
         "name": "Atbash Cipher",
         "uuid": "5bff4fe1-6330-4730-b586-dcc5438c02ee",

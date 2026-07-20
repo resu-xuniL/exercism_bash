@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "resu-xuniL"
+  ],
+  "files": {
+    "solution": [
+      "word_search.sh"
+    ],
+    "test": [
+      "word_search.bats"
+    ],
+    "example": [
+      ".meta/example.sh"
+    ]
+  },
+  "blurb": "Create a program to solve a word search puzzle."
+}
