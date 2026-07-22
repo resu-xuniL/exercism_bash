@@ -1236,6 +1236,14 @@
           "associative_arrays",
           "control_flow_conditionals"
         ]
+      },
+      {
+        "slug": "intergalactic-transmission",
+        "name": "Intergalactic Transmission",
+        "uuid": "b1874a8b-ebc7-4a1b-802f-8f0a6feaa59d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
       }
     ],
     "foregone": [
